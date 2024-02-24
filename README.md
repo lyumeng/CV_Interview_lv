@@ -1,9 +1,8 @@
-# 目前的readme文件跳转啥的，还没改好～各位可以直接点到文件夹中先看～我会这几天来fix掉
-
+注：fork的[CV_Interview](https://github.com/zonechen1994/CV_Interview)，为个人私人学习repo. 对原repo会有修改，建议观看学习原repo。
 
 ## 一.《百面计算机视觉第三版》简介
 
-本仓库（**cv_interview**）主要针对的是计算机视觉算法岗面试题的整理。这一版本，我们开始汇总各大**互联网大厂公司**技术岗考察的**CV算法题**:fire:。希望可以帮助同学们更加有针对性地准备面试，也希望帮助同学了解面试中的**八股文套路**，可以让更多的同学拿到**Dream offer。** 当然，如果对你有帮助，也希望你可以点个star⭐，谢谢！
+本仓库（**cv_interview**）主要针对的是计算机视觉算法岗面试题的整理。这一版本，我们开始汇总各大**互联网大厂公司**技术岗考察的**CV算法题**:fire:。
 
 
 
@@ -48,57 +47,18 @@
 - etc
 
 
-### 四. Q：**为什么此仓库可以一直维护下去？**
-
-A：**因为，我也是一个转行的算法工程师**。我本科的专业是材料科学与工程。2016年，我本科毕业后，在一个二线城市找到了一份工资3k+的工作，后面才了解到原来计算机这个行业中的待遇这么高，年薪动辄**20w+**，（**而今年（21）年，白菜价已经快到40w了**）。于是我就跨专业考研了。在考研之后，经历了AI大火时期，看到了大厂给算法岗开出了很高的待遇，就将方向一直放在CV中。在之后找实习中，我发现我不懂得面试官的套路，无从准备，一开始屡屡碰壁。当后面面试多了，了解多了，面试就成功率高了很多。最后我也在秋招时期，靠着自己断断续续整理2年多的面经，拿到了BAT等公司的cv算法offer。我也开始将面经开放出去，也帮助了很多同学拿到了心中的算法offer。**希望我可以用我的经历跟知识存储帮助各位可以更好地拿offer吧。**
-
-
-![2281634976010_ pic](https://user-images.githubusercontent.com/47493620/138548172-5341f763-2e5d-43cf-84e4-3258a0287347.jpg)
 
 
 
-目前，我在复旦全日制攻读博士学位，跟一些工业界的小伙伴们，一起维护这样的仓库，如果你对**找工作，读研，读博有什么疑问，可以加我好友～**
-
-
-
-![WechatIMG14](https://github.com/zonechen1994/CV_Interview/assets/47493620/c2b05295-e718-446e-bc66-3a0a6fea7632)
-
-
-
-
-## 五. 写在前面，信心很重要！(背景不好，还想做CV吗？)
+## 四. CV技术栈
 
 ![CV从业人员必会技能！！](https://user-images.githubusercontent.com/47493620/119588215-e8360b00-be02-11eb-8802-f1a840487c85.png)
-
-我写了一篇公众号博文：[没文章，没背景，想做CV？那就按这个干！](https://mp.weixin.qq.com/s?__biz=MzkzNDIxMzE1NQ==&mid=2247485889&idx=1&sn=cc9e77174891a876264d087ba250c818&chksm=c241ea8df536639bb777b325bce49ef181d4ab2ea3f781b30ea964ae120e74f986ddbddbff0d&token=1223742475&lang=zh_CN#rd)
 
 其中我整理相对应的**视频课**与**电子书**的**学习路线资料**，百度网盘链接：[下载地址](https://pan.baidu.com/s/1kOfOAKEhHByD2f2BTNEYFQ)，密码：g85m。**若地址失效，可以加我微信，我发给你就好～**
 
 
 
-**注：目前市场上的cv岗位还是比较稀缺的（一线城市为主），不一定说我们一定要在校招中进入头部的大厂，只要我们一直在炼丹，那么社招中，我们依然可以拿到不错的待遇！**
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/8SMJ0xH7ShdHYzvDlPibkmfM0v2uZsR13BlNTu2ibD6Ebxvmn8zc0JsuqlPMib60g7x8OJGbvZIaAVjqHEfKMZzibg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 
-
-
-
-
-## 六. 其它你需要看的资源
-
-- [1. 简历模板与写简历的套路总结](https://mp.weixin.qq.com/s?__biz=MzkzNDIxMzE1NQ==&mid=2247485095&idx=1&sn=b3fa4c5e87d2c883e4234a512b03f925&chksm=c241e5ebf5366cfd0e1e878d6f81cc441c39da645f53f470547a6e1ca8fad20d3de16f3055bb&token=507085599&lang=zh_CN#rd)
-
-
-
-
-
-
-## 特别感谢小伙伴们(排名不分先后)：
-
-- **DarrenZhang**
-- **BJWang**
-- **小亦**
-- **心满**
 
